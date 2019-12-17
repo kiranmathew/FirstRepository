@@ -1,2 +1,2 @@
 # FirstRepository
-Just for fun
+It contains the Word file for first assignment.
